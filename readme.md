@@ -12,6 +12,8 @@ Import thư viện redisson vào Maven: thêm dependency trong tab dependencies 
 
 ![alt](pic/1.png)
 
+Xem phiên bản mới nhất của redisson tại [đây](https://search.maven.org/classic/#search%7Cga%7C1%7Cg%3A%22org.redisson%22%20AND%20a%3A%22redisson%22).
+
 ## Ý tưởng bài toán
 
 - B1: Kết nối đến redis server qua port 6379
